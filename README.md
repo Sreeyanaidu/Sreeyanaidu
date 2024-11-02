@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sreeya and I'm a CSE_AIML Undergraduate, from GITAM University</h2>
+<h2 align="left">Hi 👋! My name is Sreeya and I'm a CSE-AIML Undergraduate, from GITAM University</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I’m currently learning Tensorflow, Keras<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
+<p align="left">I’m currently learning Tensorflow, Keras<br><br>I like working on self-improvement .<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
 
 ###
 
@@ -71,6 +71,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sreeyanaidu/Sreeyanaidu/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=saisreeya07&theme=rose_pine" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sreeyanaidu/count.svg?"  />
+</div>
 
 ###
