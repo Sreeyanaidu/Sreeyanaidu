@@ -2,6 +2,21 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.instagram.com/sreeya_naidu/?api=postMessage" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="saisreeya07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sreeya-naidu-b4461b264/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <p align="left">I’m currently learning Tensorflow, Keras<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
 
 ###
@@ -36,21 +51,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/sreeya_naidu/?api=postMessage" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="saisreeya07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sreeya-naidu-b4461b264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://mellfire.com/wp-content/uploads/2019/03/79c1da9e-38be-448d-8289-2742a0af1747.gif"  />
 
 ###
@@ -63,16 +63,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sreeyanaidu/Sreeyanaidu/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/ujhvme0vfs769pmvz8h9dgokl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ujhvme0vfs769pmvz8h9dgokl&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ujhvme0vfs769pmvz8h9dgokl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ujhvme0vfs769pmvz8h9dgokl&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/Sreeyanaidu/Sreeyanaidu/output/snake.svg" alt="Snake animation" />
 
 ###
