@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m currently learning Tensorflow, Keras<br><br>"I'm really passionate about working on myself and constantly learning new things.<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
+<p align="left">I’m currently learning Tensorflow, Keras<br><br>I'm really passionate about working on myself and constantly learning new things.<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
 
 ###
 
