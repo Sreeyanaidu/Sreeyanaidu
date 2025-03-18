@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m currently learning Tensorflow, Keras<br><br>I'm really passionate about working on myself and constantly learning new things.<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
+<p align="left">I’m currently learning Tensorflow, Keras<br><br>I like working on self-improvement .<br><br>Ask me about Python, C,Java, DSA.<br><br>Drop me a message @<br>saisreeya07@gmail.com<br><br>let's have fun convos about tech and music!<br><br>Fun fact - I'm a International Chess Player</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
 
 ###
@@ -51,23 +53,24 @@
 
 ###
 
-<img align="right" height="150" src="https://mellfire.com/wp-content/uploads/2019/03/79c1da9e-38be-448d-8289-2742a0af1747.gif"  />
+<img align="right" height="200" src="https://mellfire.com/wp-content/uploads/2019/03/79c1da9e-38be-448d-8289-2742a0af1747.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreeyanaidu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sreeyanaidu&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreeyanaidu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreeyanaidu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreeyanaidu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=false&order=2" height="157" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ujhvme0vfs769pmvz8h9dgokl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ujhvme0vfs769pmvz8h9dgokl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreeyanaidu/Sreeyanaidu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreeyanaidu/Sreeyanaidu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sreeyanaidu/Sreeyanaidu/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
